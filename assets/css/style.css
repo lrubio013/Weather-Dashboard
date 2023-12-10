@@ -1,0 +1,18 @@
+.btn-secondary {
+    display:block;
+    color:black;
+    margin-bottom: 10px;
+}
+
+#currentWeather {
+    border-style: solid;
+    margin-bottom: 5%;
+}
+
+
+.fiveCards {
+ margin-right: 20px;
+ border-style: solid;
+ background-color: navy;
+color: white;
+}
