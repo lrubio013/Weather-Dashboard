@@ -1,15 +1,16 @@
+/* Styles the previous search buttons */
 .btn-secondary {
     display:block;
     color:black;
-    margin-bottom: 10px;
 }
 
+/* styles the current day card */
 #currentWeather {
     border-style: solid;
     margin-bottom: 5%;
 }
 
-
+/* Styles the cards for the 5 day forecast */
 .fiveCards {
  margin-right: 20px;
  border-style: solid;
